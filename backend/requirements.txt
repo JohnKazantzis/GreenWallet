@@ -63,7 +63,7 @@ pycrypto==2.6.1
 pycryptodome==3.9.8
 pyflakes==2.2.0
 pygobject==3.26.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyOpenSSL==17.5.0
 pyparsing==2.4.7
 pyrsistent==0.16.0
